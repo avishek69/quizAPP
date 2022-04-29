@@ -16,7 +16,7 @@ function App() {
       question: "who is the most handsome boy in the world?",
       answers: [
         {
-          text: "animesh",
+          text: "v",
           correct: false,
         },
         {
@@ -24,11 +24,11 @@ function App() {
           correct: true,
         },
         {
-          text: "Vivek",
+          text: "jimin",
           correct: false,
         },
         {
-          text: "chiranjit",
+          text: "suger",
           correct: false,
         },
       ],
@@ -52,6 +52,182 @@ function App() {
         {
           text: "Hawk",
           correct: false,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
+        },
+      ],
+    },
+    {
+      id: 3,
+      question: "Who played the character of harry potter in movie?",
+      answers: [
+        {
+          text: "Johnny Deep",
+          correct: false,
+        },
+        {
+          text: "Leonardo Di Caprio",
+          correct: false,
+        },
+        {
+          text: "Denzel Washington",
+          correct: false,
+        },
+        {
+          text: "Daniel Red Cliff",
+          correct: true,
         },
       ],
     },
